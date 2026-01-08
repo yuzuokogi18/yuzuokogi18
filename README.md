@@ -1,4 +1,3 @@
-
 <h3 align="left">## Hi 👋 I'm Katia Sujey<br><br>Software Engineer | Frontend Developer  <br>UI/UX Design enthusiast | Cybersecurity interested  <br><br>Focused on clean design and great user experience ✨</h3>
 
 ###
@@ -42,10 +41,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
